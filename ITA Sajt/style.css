@@ -1,0 +1,150 @@
+h1, h2, h3, h4 {
+	color:white;
+}
+
+body {
+	background:url(darkness.png);
+	width:1280px;	
+}
+
+#wrapper {
+	width:1280px;
+}
+
+p {
+	color:white;
+	text-align:justify;
+	padding:10px;
+}
+
+#header {
+	width:960px;
+	height:40px;
+}
+
+#main {
+	width:620px;
+	padding:10px;
+	float:left;
+}
+
+#main1 {
+	width:400px;
+	padding:10px;
+	float:left;
+}
+
+#main2 {
+	width:400px;
+	padding:10px;
+	float:left;
+}
+
+#main3 {
+	width:400px;
+	padding:10px;
+	float:left;
+}
+
+#sidebar {
+	width:620px;
+	padding:10px;
+	float:right;	
+}
+
+#footer {
+	clear:both;
+	width:1280px;
+	padding:10px;	
+}
+
+.tabela {
+	font-family:Verdana;
+	font-size:24px;
+	margin:30px 0 0 20px;
+	padding-left:100px;
+	color:white;
+}
+
+.slike {
+	float:left;
+	margin-top:20px;
+	margin-right:10px;
+	margin-bottom:10px;
+	width:200px;	
+}
+
+ul {
+	color:white;
+	list-style-position:outside;
+}
+
+.slike1 {
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+	width:116px;
+	height:170px;
+}
+.slike2 {
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+	width:180px;
+}
+
+a, a:link {
+	color:542B72;
+	text-decoration:none;
+}
+
+a:visited {
+	color:542B72;
+	text-decoration:none;
+}
+
+a:hover {
+	color:a23645;
+	text-decoration:underline;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
